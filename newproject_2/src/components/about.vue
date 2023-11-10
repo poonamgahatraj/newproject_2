@@ -1,7 +1,7 @@
 <template>
-    <div class="p-5 border  h-screen ">
+    <div class="p-5 border  h-screen w-full ">
         <div >
-          <p class="font-medium">Manage your application</p> 
+          <p class="font-medium">Manage your application</p>
           <p>You can manage, add or remove application</p> 
         </div>
 

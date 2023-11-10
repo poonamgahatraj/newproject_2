@@ -10,7 +10,7 @@ import homepage from './pages/homepage.vue';
 
 <template>
   
-<homepage/>
+  <router-view></router-view>
 
 
 </template>
